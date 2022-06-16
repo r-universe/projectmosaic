@@ -1,0 +1,22 @@
+[
+  {
+    "package": "ggformula",
+    "oncran": true
+  },
+  {
+    "package": "mosaic",
+    "oncran": true
+  },
+  {
+    "package": "mosaicCalc",
+    "oncran": true
+  },
+  {
+    "package": "mosaicCore",
+    "oncran": true
+  },
+  {
+    "package": "mosaicData",
+    "oncran": true
+  }
+]
