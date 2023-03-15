@@ -1,14 +1,14 @@
 [
   {
-    "package": "mosaicCalc",
-    "oncran": true
-  },
-  {
-    "package": "mosaicData",
-    "oncran": true
-  },
-  {
     "package": "ggformula",
+    "oncran": true
+  },
+  {
+    "package": "mosaic",
+    "oncran": true
+  },
+  {
+    "package": "mosaicCalc",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "mosaic",
+    "package": "mosaicData",
     "oncran": true
   }
 ]
