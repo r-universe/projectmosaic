@@ -3,19 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ggformula"]
-	path = ggformula
-	url = https://github.com/projectmosaic/ggformula
-	shallow = true
-	registered = true
-[submodule "mosaic"]
-	path = mosaic
-	url = https://github.com/projectmosaic/mosaic
-	shallow = true
-	registered = true
 [submodule "mosaicCalc"]
 	path = mosaicCalc
 	url = https://github.com/projectmosaic/mosaiccalc
+	shallow = true
+	registered = true
+[submodule "mosaicData"]
+	path = mosaicData
+	url = https://github.com/projectmosaic/mosaicdata
+	shallow = true
+	registered = true
+[submodule "ggformula"]
+	path = ggformula
+	url = https://github.com/projectmosaic/ggformula
 	shallow = true
 	registered = true
 [submodule "mosaicCore"]
@@ -23,8 +23,8 @@
 	url = https://github.com/projectmosaic/mosaiccore
 	shallow = true
 	registered = true
-[submodule "mosaicData"]
-	path = mosaicData
-	url = https://github.com/projectmosaic/mosaicdata
+[submodule "mosaic"]
+	path = mosaic
+	url = https://github.com/projectmosaic/mosaic
 	shallow = true
 	registered = true
