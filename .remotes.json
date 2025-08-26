@@ -1,0 +1,9 @@
+[
+  {
+    "package": "ggiraph",
+    "url": "https://github.com/davidgohel/ggiraph",
+    "via": ["ggformula"],
+    "branch": "for-ggplotv4",
+    "from": "ggformula"
+  }
+]

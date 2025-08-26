@@ -5,6 +5,11 @@
 [submodule "ggformula"]
 	path = ggformula
 	url = https://github.com/projectmosaic/ggformula
+[submodule "ggiraph"]
+	path = ggiraph
+	url = https://github.com/davidgohel/ggiraph
+	branch = for-ggplotv4
+	registered = false
 [submodule "mosaic"]
 	path = mosaic
 	url = https://github.com/projectmosaic/mosaic
