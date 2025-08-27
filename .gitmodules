@@ -8,7 +8,10 @@
 [submodule "ggiraph"]
 	path = ggiraph
 	url = https://github.com/davidgohel/ggiraph
-	branch = for-ggplotv4
+	registered = false
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
 	registered = false
 [submodule "mosaic"]
 	path = mosaic

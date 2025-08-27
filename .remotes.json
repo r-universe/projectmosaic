@@ -3,7 +3,12 @@
     "package": "ggiraph",
     "url": "https://github.com/davidgohel/ggiraph",
     "via": ["ggformula"],
-    "branch": "for-ggplotv4",
+    "from": "ggformula"
+  },
+  {
+    "package": "ggplot2",
+    "url": "https://github.com/tidyverse/ggplot2",
+    "via": ["ggformula", "ggiraph"],
     "from": "ggformula"
   }
 ]
